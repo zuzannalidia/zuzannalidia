@@ -19,10 +19,6 @@ I'm from Warsaw, currently in the Central European Time Zone 🌎. I'm a huge fa
 [![chinese flag](assets/chinese-flag-round.svg)]([https://www.duolingo.com/profile/bobbyg603](https://www.duolingo.com/profile/avoiCuSg))
 [![spanish flag](assets/spanish-flag-round.svg)]([https://www.duolingo.com/profile/bobbyg603](https://www.duolingo.com/profile/avoiCuSg))
 
-## ☕ Need some coffee 
-
-[<img src="assets/bitcoin.png" alt="bitcoin address" width="180px">](buymeacoffee.com/zuzipaluch)
-
 ## 📫 How to reach me
 
 [<img src="assets/envelope.png" height="50px">](mailto:zuzanna.lidia@gmail.com)
