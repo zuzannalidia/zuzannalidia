@@ -7,7 +7,7 @@
 
 ![profile view count](https://komarev.com/ghpvc/?zuzannalidia&color=ff69b4)
 
-I'm from the Warsaw, currently in the Central European Time Zone 🌎. I'm a huge fan of Python, C#, REST API, and Data Mining/Machine Learning 💻. When I'm not crushing bugs or building dreams, I can be found playing chess ♟️, traveling ✈️, dining out 🍝, lifting weights 🏋️, and spending time with my two cats 🐈.
+I'm from Warsaw, currently in the Central European Time Zone 🌎. I'm a huge fan of Python, C#, REST API, and Data Mining/Machine Learning 💻. When I'm not crushing bugs or building dreams, I can be found playing chess ♟️, traveling ✈️, dining out 🍝, lifting weights 🏋️, and spending time with my two cats 🐈.
 
 ## 🔭 I'm currently working on
 
