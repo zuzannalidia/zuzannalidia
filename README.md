@@ -21,7 +21,6 @@ I'm from Warsaw, currently in the Central European Time Zone 🌎. I'm a huge fa
 
 ## 📫 How to reach me
 
-[<img src="assets/envelope.png" height="50px">](mailto:zuzanna.lidia@gmail.com)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zuzanna.lidia@gmail.com) 
 
 ## 🌐 Socials:
