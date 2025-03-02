@@ -23,6 +23,16 @@ I'm from Warsaw, currently in the Central European Time Zone 🌎. I'm a huge fa
 
 [<img src="assets/envelope.png" height="50px">](mailto:zuzanna.lidia@gmail.com)
 [<img src="assets/x.png" height="50px">](https://x.com/bobbyg603)
+
+💻 Tech Stack:
+C# C++ Java HTML5 Python Bash Script .Net MicrosoftSQLServer MySQL scikit-learn PyTorch Pandas NumPy Matplotlib
+
+📊 GitHub Stats:
+
+
+
+
+
 <!--
 **zuzannalidia/zuzannalidia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
