@@ -5,14 +5,11 @@
 
 ## 🙋‍♂️ About me
 
-[![](https://visitcount.itsvg.in/api?id=zuzannalidia&icon=0&color=0)](https://visitcount.itsvg.in)
-
 I'm from Warsaw, currently in the Central European Time Zone 🌎. I'm a huge fan of Python, C#, REST API, and Data Mining/Machine Learning 💻. When I'm not crushing bugs or building dreams, I can be found playing chess ♟️, traveling ✈️, dining out 🍝, lifting weights 🏋️, and spending time with my two cats 🐈.
 
 ## 🔭 I'm currently working on
 
-[<img src="assets/bugsplat-slingshot-small.png" alt="bugsplat slingshot" height="150px">](https://github.com/BugSplat-Git)
-[<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">](https://github.com/workingdevshero)
+bioinformatic project :D
 
 ## 🌱 I’m currently learning
 
