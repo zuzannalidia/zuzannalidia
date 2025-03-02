@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About me
 
-![profile view count](https://komarev.com/ghpvc/?zuzannalidia&color=ff69b4)
+[![](https://visitcount.itsvg.in/api?id=zuzannalidia&icon=0&color=0)](https://visitcount.itsvg.in)
 
 I'm from Warsaw, currently in the Central European Time Zone 🌎. I'm a huge fan of Python, C#, REST API, and Data Mining/Machine Learning 💻. When I'm not crushing bugs or building dreams, I can be found playing chess ♟️, traveling ✈️, dining out 🍝, lifting weights 🏋️, and spending time with my two cats 🐈.
 
