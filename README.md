@@ -16,8 +16,7 @@ I'm from Warsaw, currently in the Central European Time Zone 🌎. I'm a huge fa
 
 ## 🌱 I’m currently learning
 
-[![chinese flag](assets/chinese-flag-round.svg)]([https://www.duolingo.com/profile/bobbyg603](https://www.duolingo.com/profile/avoiCuSg))
-[![spanish flag](assets/spanish-flag-round.svg)]([https://www.duolingo.com/profile/bobbyg603](https://www.duolingo.com/profile/avoiCuSg))
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ## 📫 How to reach me
 
