@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Zuzanna Paluch
 
-[<img src="assets/PJATK.png" alt="PJATK"]
+[![PJATK](https://github.com/user-attachments/assets/82e081df-3293-4a48-a4ee-15d421a4b12b)](https://pja.edu.pl/)
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/user/1268047170?si=70bd315ee3ba4c40](https://open.spotify.com/user/21ghes56zhkymtmttts5npcva))
 
 ## 🙋‍♂️ About me
