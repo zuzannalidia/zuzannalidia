@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Zuzanna Paluch
 
-[![university link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bobbyg603)
+[<img src="assets/PJATK.png" alt="PJATK"]
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/user/1268047170?si=70bd315ee3ba4c40](https://open.spotify.com/user/21ghes56zhkymtmttts5npcva))
 
 ## 🙋‍♂️ About me
